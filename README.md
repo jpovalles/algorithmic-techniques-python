@@ -1,2 +1,2 @@
 # algorithmic-techniques-python
-Este repositorio contiene soluciones implementadas en Python a problemas clásicos de algoritmia y programación competitiva, provenientes del juez en línea UVA Online Judge. 
+Este repositorio contiene soluciones implementadas en Python a problemas clásicos de algoritmia y programación competitiva, provenientes del juez en línea UVA Online Judge. Las soluciones fueron desarrolladas con enfoque en técnicas algorítmicas fundamentales como dividir y conquistar, backtracking, programación dinámica y algoritmos voraces, aplicadas a problemas como cobertura de intervalos, generación de cadenas binarias, búsqueda en tableros, subsecuencias alternantes, creación de palíndromos, teoría de juegos y recorrido de laberintos.
